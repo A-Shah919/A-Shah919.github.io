@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Abhishika Shah",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hi everyone! My name is Abhishika and I am from NC. I developed a passion for the human body in elementary school and have been following that calling ever since. I'm incredibly interested in neurodegenerative diseases, as well as regenerative medicine and how it can be used to develop treatments in neurology and dermatology!",
 
   /*
   Optional photo:
@@ -65,7 +65,7 @@ const studentProfile = {
   github: [
     {
       title: "My GitHub Profile",
-      url: "https://github.com/"
+      url: "https://github.com/A-Shah919?tab=repositories/"
     }
   ]
 };
