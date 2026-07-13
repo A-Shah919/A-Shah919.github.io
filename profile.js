@@ -39,7 +39,7 @@ const studentProfile = {
   rpubs: [
     {
       title: "Introduction to R",
-      url: "https://rpubs.com/"
+      url: "https://rpubs.com/A-Shah/1446783"
     },
     {
       title: "Finding Patterns with Heatmaps",
