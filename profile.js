@@ -45,6 +45,10 @@ const studentProfile = {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/A-Shah/1446778"
     }
+    {
+      title: "Exploring TCGA Breast Cancer Clinical Data",
+      url: "https://rpubs.com/A-Shah/1447731"
+    }
   ],
 
   /*
